@@ -83,4 +83,7 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+  h4 {
+    color: white;
+  }
 }
